@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋, I'm Mobeen Rashid
 
-<!--
-**MobeenRashid/MobeenRashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Software Engineer | Full-Stack Developer**  
+🏆 **World’s Top 3% Talent** (Toptal)  
+💡 **Expert in TypeScript, React, Next.js, Node.js**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🔹 About Me**
+
+I’m a passionate software engineer with **7+ years of experience** in building scalable web applications. I specialize in **frontend development**, crafting high-performance UIs, and architecting modern web solutions.
+
+- 🔭 **Currently working at:** Swvl (Senior Frontend Engineer)
+- 🎯 **Previously built:**
+  - **Fleet Management Web App** (Swvl)
+  - **Freight Marketplace** (Motive)
+  - **Enterprise Market Research Platform** (Intelligize)
+  - **Performance Monitoring System** (SSI Pakistan)
+- 🏗 **Tech Stack:** TypeScript, React, Next.js, Node.js, Tailwind CSS, TurboRepo, Storybook
+- 🛠 **Experienced with:** Monorepos, Microfrontends, Design Systems
+
+---
+
+### **💻 My Work**
+
+🔗 **Portfolio:** [mobeen-rashid.vercel.app](https://mobeen-rashid.vercel.app)  
+📂 **GitHub:** [github.com/MobeenRashid](https://github.com/MobeenRashid)
+
+---
+
+### **📬 Get in Touch**
+
+📧 **Email:** mobeenrashed032@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/mobeenrashid](https://www.linkedin.com/in/mobeenrashid)
+
+Let's build something awesome together! 🚀
