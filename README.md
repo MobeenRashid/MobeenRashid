@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Mobeen Rashid
 
-🚀 **Senior Software Engineer | Full-Stack Developer**  
+🚀 **Senior Software Engineer - Frontend**  
 🏆 **World’s Top 3% Talent** (Toptal)  
 💡 **Expert in TypeScript, React, Next.js, Node.js**
 
@@ -31,6 +31,6 @@ I’m a passionate software engineer with **7+ years of experience** in building
 ### **📬 Get in Touch**
 
 📧 **Email:** mobeenrashed032@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/mobeenrashid](https://www.linkedin.com/in/mobeenrashid)
+💼 **LinkedIn:** [linkedin.com/in/mobeenr](https://www.linkedin.com/in/mobeenr)
 
 Let's build something awesome together! 🚀
