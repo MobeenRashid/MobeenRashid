@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Mobeen Rashid
 
-🚀 **Senior Software Engineer - Frontend**  
+🚀 **Senior Software Engineer - FullStack**  
 🏆 **World’s Top 3% Talent** (Toptal)  
 💡 **Expert in TypeScript, React, Next.js, Node.js**
 
